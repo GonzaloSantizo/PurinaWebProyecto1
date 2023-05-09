@@ -19,4 +19,4 @@ Este proyecto web utiliza una combinación de tecnologías populares para crear 
 
 2. Abre una terminal y navega hasta el directorio del proyecto.
 
-3. Ejecuta el siguiente comando para instalar las dependencias necesarias:
+3. Ejecuta el siguiente comando para instalar las dependencias necesarias: npm install
