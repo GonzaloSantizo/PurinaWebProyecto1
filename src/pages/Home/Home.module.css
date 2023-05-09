@@ -1,0 +1,23 @@
+.styles {
+  width: 100%;
+  height: auto;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.carrousel {
+  position: 'relative';
+  width: 100%;
+}
+
+.cartasaling{
+  display: flex;
+  flex-direction: row;
+  margin-left: 60px;  
+}
+
+
+
