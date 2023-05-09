@@ -1,8 +1,6 @@
 # PurinaWebProyecto1
 Proyecto 1 Sistemas y Tecnologias web
 
-# Proyecto Web con Material-UI, React, npm y Vite
-
 Este proyecto web utiliza una combinación de tecnologías populares para crear una interfaz de usuario atractiva y optimizada. A continuación, se detallan las tecnologías principales utilizadas y cómo se integran en el proyecto.
 
 ## Tecnologías utilizadas
